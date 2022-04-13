@@ -1,0 +1,36 @@
+main{
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_960_720.jpg);
+    background-size: cover;
+    padding: 100px;
+    height: 100px;
+}
+.container h1{
+    color:#f5f6fa;
+    font-family: Arial;
+    background-color:beige;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-size: 60px;
+}
+
+.container{
+    text-align: center;
+}
+
+.container p{
+    font-size: 25px;
+}
+
+.btn-wrapper{
+    text-align: center;
+}
+
+.btn-wrapper p{
+    margin: 20px 0;
+    font-family:rubik;
+}
+
+a{
+    background-color:#7ed6df;
+    padding-top: 40px;
+}
